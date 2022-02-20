@@ -12,8 +12,7 @@ function askMyName() {
  }
 
  function calAge() {
-     var inpytAge = prompt("Please enter your age", "Enter your name here.");
-        document.getElementById("calAge").innerHTML = "My age is " + age;
+     var inputAge = prompt("ใส่ปีเกิด", "ใส่ปีเกิด.");
         alert("ยินดีด้วย หร่อนอยู่ในประเทศนี้มา" + (2022 - inputAge) + "ปีแล้ว")
         
      }
