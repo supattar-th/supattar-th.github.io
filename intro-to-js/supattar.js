@@ -16,7 +16,7 @@ function askMyName() {
         alert("ยินดีด้วย หร่อนอยู่ในประเทศนี้มา" + (2022 - inputAge) + "ปีแล้ว")
         
      }
- 
+
 
  function loadProfile() {
      var name = "Your name"
