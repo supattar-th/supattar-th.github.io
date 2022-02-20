@@ -23,6 +23,8 @@ function askMyName() {
     var province = "Your province"
      document.getElementById("my-name").innerHTML = name;
      document.getElementById("my-province").innerHTML = province;
- }
+    }
+}
+
 
  
