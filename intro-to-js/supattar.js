@@ -19,8 +19,8 @@ function askMyName() {
 
 
  function loadProfile() {
-     var name = prompt("Your name");
-    var province = prompt("Your province");
+     var name = prompt("Supattar");
+    var province = prompt("Kalasin");
      document.getElementById("my-name").innerHTML = name;
      document.getElementById("my-province").innerHTML = province;
     }
